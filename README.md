@@ -1,2 +1,2 @@
 # -
-C++小白，喜欢电子音乐。
+Making a better life.
